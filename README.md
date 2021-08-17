@@ -1,7 +1,8 @@
 ### Hi there 👋
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YooSijin9461&repo=github-readme-stats)](https://i.pinimg.com/originals/58/fd/e0/58fde03dc4c22c6bb55ec0a3c5d6c749.gif)
-<!--
-**YooSijin9461/YooSijin9461** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YooSijin9461)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooSijin9461)](https://github.com/anuraghazra/github-readme-stats)
+<!-- **YooSijin9461/YooSijin9461** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,7 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YooSijin9461)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooSijin9461)](https://github.com/anuraghazra/github-readme-stats)
+- ⚡ Fun fact: ... -->
+
